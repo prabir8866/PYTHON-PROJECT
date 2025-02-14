@@ -1,5 +1,5 @@
 # PYTHON-PROJECT
-Hello Everyoone
+Hello Everyoone !
 Building a Functional ATM Interface with Python!
 
 I'm currently working on an ATM simulation project as part of my Python programming internship. This system allows users to check their balance, withdraw, and deposit funds—all while ensuring a smooth user experience.
